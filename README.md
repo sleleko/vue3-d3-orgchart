@@ -3,7 +3,7 @@
 This is Vue3 Org chart based on D3.js and Vue3 composition API.
 
 ## Screen
-
+![Alt text](src/assets/img.png?raw=true "Screen exmple")
 
 ## Project Setup
 
