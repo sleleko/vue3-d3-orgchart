@@ -1,14 +1,9 @@
 # vue3-d3d-orgchart
 
-This template should help get you started developing with Vue 3 in Vite.
+This is Vue3 Org chart based on D3.js and Vue3 composition API.
 
-## Recommended IDE Setup
+## Screen
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
